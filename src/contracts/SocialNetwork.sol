@@ -27,7 +27,7 @@ contract SocialNetwork {
     );
 
     constructor() public {
-        name = "Dapp University Social Network";
+        name = "A Decentralised Social Network";
     }
 
     function createPost(string memory _content) public {
